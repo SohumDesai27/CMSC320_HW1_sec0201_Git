@@ -1,8 +1,15 @@
 
 1: Why might we consider using Git?
 
-Answer: Git is an industry standard for version control, it allows multiple developers to work on a given repository at the same and add different features at the same time. It allows for an easy way to make and track changes.
+Answer: Git is an industry standard for version control, it allows multiple developers to work on a given repository at the same and add different features at the same time.It allows for an easy way to make
+and track changes.
 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the financial field, in order to track the stock market and find indicators for when a stock price might fall or rise.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: When you merge you combine two different branches using a merge commit, so the changes will all be concentrated in one branch. Git rebase is used to move the commits at the top of another branch. So if 
+you were working on branch1 and main had more commits, then you can rebase to have branch1 commits after the main commits. 
