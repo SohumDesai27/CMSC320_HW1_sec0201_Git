@@ -13,3 +13,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: When you merge you combine two different branches using a merge commit, so the changes will all be concentrated in one branch. Git rebase is used to move the commits at the top of another branch. So if 
 you were working on branch1 and main had more commits, then you can rebase to have branch1 commits after the main commits. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I recently got a golf membership at the UMD golf course, so I'm looking forward to playing more golf with my buddies. 
